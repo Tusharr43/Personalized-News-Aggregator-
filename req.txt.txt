@@ -1,0 +1,7 @@
+Create and Activate Virtual Environment:
+python -m venv venv
+source venv/bin/activate  
+# On Windows use venv\Scripts\activate
+
+Install Required Packages:
+pip install django pandas scikit-learn djangorestframework django-filter
