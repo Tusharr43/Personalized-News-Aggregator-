@@ -1,0 +1,15 @@
+Project Highlights:
+🔍 News Scraping: Utilized web scraping to collect news articles from various sources, including CNN, India Today, and BBC.
+🧠 NLP for Categorization: Implemented Natural Language Processing (NLP) to categorize news articles into specific topics such as World, Politics, Business, Technology, Entertainment, and Sports.
+🔧 Django REST API: Developed a robust REST API using Django to serve categorized news articles. Features include:
+Search and Filtering: Search articles by title and summary, and filter by category and date range.
+Detailed View: Retrieve detailed information about individual articles.
+📊 Data Management: Imported categorized articles into a Django database and ensured data accuracy with validation checks.
+Key Features:
+Scalability: Designed to handle large volumes of news data efficiently.
+User-Friendly API: Easy-to-use API for accessing news articles and detailed search functionalities.
+Detailed Documentation: Comprehensive documentation including setup instructions, usage examples, and error handling scenarios.
+Technologies Used:
+Django: For building the web application and API.
+Pandas & Scikit-Learn: For data manipulation and NLP model training.
+Postman: For testing and validating API endpoints
